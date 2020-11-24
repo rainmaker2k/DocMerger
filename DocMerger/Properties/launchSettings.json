@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DocMerger": {
+      "commandName": "Project",
+      "commandLineArgs": "config.txt"
+    }
+  }
+}
