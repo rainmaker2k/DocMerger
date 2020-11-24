@@ -1,3 +1,5 @@
 ﻿voorblad.docx
 grondstof rode tomaat.docx
 certificaat.docx
+
+out: combined.docx
